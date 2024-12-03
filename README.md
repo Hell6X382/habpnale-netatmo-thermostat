@@ -1,0 +1,1 @@
+# habpnale-netatmo-thermostat
